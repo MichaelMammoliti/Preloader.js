@@ -2,7 +2,7 @@ var Loader = (function(options){
 
 	var 	filesLen 		= options.files.length,
 				filesLoaded = 0,
-				currentFile = 0
+				currentFile = 0 
 	;
 
 	function init()
