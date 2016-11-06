@@ -1,2 +1,2 @@
 # preloader.js
-A simple preloader made with javascript.
+A simple image preloader made with javascript.
