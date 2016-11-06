@@ -1,3 +1,23 @@
+/*
+	Script info:
+	================
+	- Author: Michael Mammoliti
+	- Version: 1.0.0
+	- Release date: 06 November 2016
+	- GitHub: https://github.com/MichaelMammoliti/Preloader.js/
+
+	Contact info
+	================
+	- GitHub: https://github.com/MichaelMammoliti
+	- Mail: mammoliti.michael@gmail.com
+	- Twitter: @MichMammoliti
+
+	License Info
+	================
+	- Released under the MIT license.
+*/
+
+
 var Loader = (function(options){
 
 	var 	filesLen 		= options.files.length,
